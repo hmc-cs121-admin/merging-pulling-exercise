@@ -115,7 +115,9 @@ You're ready to create a PR (Pull Request)
 
 - In the main repo, the instructor merges the new change into master by approving the PR.
 
-- Everyone should now sync their repo via `git pull`. (Note that people who selected the same color should now see a merge conflict.)
+- Everyone should now sync their (forked) repo. See https://help.github.com/articles/syncing-a-fork/
+
+- Note that people who selected the same color should now see a merge conflict.
 
 - In case there's a conflict, you should resolve the conflict by opening the issue and change the file.
 
