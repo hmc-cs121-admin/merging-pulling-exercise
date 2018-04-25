@@ -33,7 +33,7 @@ Note: lines starting with [GitHub] should be done through GitHub's web interface
 
 - [GitHub] Fork the instructor's repo (`<ORIGINAL_REPOSITORY_URL>`) to your GitHub account
 
-- [GitHub] Navigate to _your_ fork of the project. Use "Clone or download" to reveal _your_ fork's repository URL. This is the <FORKED_REPOSITORY_URL>.
+- [GitHub] Navigate to _your_ fork of the project. Use "Clone or download" to reveal _your_ fork's repository URL. This is the `<FORKED_REPOSITORY_URL>`.
 
 - Clone the forked repository to your local hard drive:
 
